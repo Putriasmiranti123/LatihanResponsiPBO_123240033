@@ -1,9 +1,0 @@
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\config\DatabaseConnection.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\dto\InsertTodoDTO.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\Latres.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\model\FakeTodoRepository.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\model\MySQLTodoRepository.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\model\TodoRepository.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\model\TodoTask.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\presenter\TodoPresenter.java
-C:\Users\Lenovo\Documents\NetBeansProjects\latres-pbo-e-2526-genap-main\src\main\java\com\pbo\latres\view\TodoView.java
